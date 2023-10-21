@@ -1,0 +1,16 @@
+
+{
+  "new_app": "News App",
+  "language": "Language",
+  "arabic": "Arabic",
+  "english": "English",
+  "categories": "Categories",
+  "settinges": "Settinges",
+  "sports": "Sports",
+  "general": "General",
+  "health": "Health",
+  "business": "Business",
+  "science": "Science",
+  "entertainment": "Entertainment",
+  "technology": "Technology"
+}
